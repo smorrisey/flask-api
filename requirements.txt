@@ -2,5 +2,4 @@ Flask
 Flask-JWT
 Flask-RESTful
 Flask-SQLAlchemy
-jedi
-rope
+uwsgi
